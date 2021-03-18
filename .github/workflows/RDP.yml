@@ -1,4 +1,4 @@
-name: CI
+name: best
 
 on: workflow_dispatch
 
